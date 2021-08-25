@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sir-Unkie
-- 👀 I’m interested in Frontend and backend web development
-- 🌱 I’m currently learning NodeJS
+- 👀 I’m interested in Frontend web development
+- 🌱 I’m currently learning React Native
 
 
 <!---
