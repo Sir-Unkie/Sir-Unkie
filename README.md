@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @Sir-Unkie
-- 👀 I’m interested in Frontend web development
-- 🌱 I’m currently learning React Native
+# Hi, I’m @Sir-Unkie a frontend web developer.
+## My CV: [Link](https://drive.google.com/file/d/1LkLAYKxryZVMXyOBkvful9UgmpOZhoKX/view?usp=sharing)
+## My Portfolio: [Link](https://sir-unkie-portfolio.netlify.app)
+
+I’m a Front-End (React) Developer. My passion is to develop functional and appealing web-based applications with a focus on great user experience, optimized performance and efficiency.
+
+I create designs and quickly transform them into responsive web applications.
+I love using the React framework to break down the application into the applicable components while integrating with Redux to manage state information.
+
+I am eager to learn new technologies (now it is React Native) and improve my knowledge as I spend most of my free time improving my skills.
 
 
 <!---
